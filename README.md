@@ -140,6 +140,10 @@ Now it's your turn! Start implementing the Strategy function to do more than jus
 Or rework the whole application.
 You can do what you want, as long as you provide the endpoint that is registered in the game. Have fun!
 
+## Logging
+
+For logging information see: https://bitwars.de/kubernetes/
+
 ## Rules
 
 More Infos: https://bitwars.de/
